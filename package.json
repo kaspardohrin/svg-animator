@@ -1,0 +1,21 @@
+{
+  "name": "svg-to-css-animation",
+  "version": "1.0.0",
+  "main": "lib/format.js",
+  "author": "Kaspar Dohrin <kdohrin@kaspardohrin.nl>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w",
+    "start": "node ./lib/generate.js",
+    "nodemon": "nodemon --exec yarn start"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.37",
+    "nodemon": "^2.0.7",
+    "typescript": "^4.2.4"
+  }
+}
