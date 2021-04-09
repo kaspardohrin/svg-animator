@@ -1,7 +1,7 @@
 {
   "name": "svg-to-css-animation",
   "version": "1.0.0",
-  "main": "lib/format.js",
+  "main": "lib/generate.js",
   "author": "Kaspar Dohrin <kdohrin@kaspardohrin.nl>",
   "license": "MIT",
   "scripts": {
