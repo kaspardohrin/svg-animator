@@ -8,7 +8,7 @@
 
 ## requirements
  a svg icon with:
- * an id for every line
+ * an id for every path that needs animating
  * paths that are created with strokes
 
  by default the path to use for animating is `icon.svg` in the root of this folder
